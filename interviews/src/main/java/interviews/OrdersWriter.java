@@ -1,4 +1,4 @@
-package socgen.interviews;
+package interviews;
 
 public class OrdersWriter {
     private Orders orders;

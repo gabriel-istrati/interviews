@@ -1,4 +1,4 @@
-package socgen.interviews;
+package interviews;
 
 import org.junit.Before;
 import org.junit.Test;

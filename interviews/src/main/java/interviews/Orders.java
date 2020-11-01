@@ -1,4 +1,4 @@
-package socgen.interviews;
+package interviews;
 
 import java.util.ArrayList;
 

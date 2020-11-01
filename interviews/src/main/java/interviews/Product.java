@@ -1,4 +1,4 @@
-package socgen.interviews;
+package interviews;
 
 public class Product {
     public static final int SIZE_NOT_APPLICABLE = -1;
